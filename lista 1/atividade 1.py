@@ -16,3 +16,5 @@ total_hamburguer = quantidade_sanduiches * peso_hamburguer_kg
 # Saída: mostrar as quantidades necessárias em quilos
 print(f"Para fazer {quantidade_sanduiches} sanduíches, você precisa de:")
 print(f"{total_queijo:.2f} kg de queijo")
+print(f"{total_presunto:.2f} kg de presunto")
+print(f"{total_hamburguer:.2f} kg de carne (hambúrguer)")
